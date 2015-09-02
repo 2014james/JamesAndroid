@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JamesAndroid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="james_demo">james_demo</string>
+    <string name="james_demo_description">james_demo_description</string>
+    <string name="james_test_shutoffscreen">测试关屏广播</string>
+    <string name="james_test_onlinemusic">测试网页版在线音乐</string>
+    <string name="james_test_ifly">测试语音识别</string>
+
+</resources>
